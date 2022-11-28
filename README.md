@@ -43,7 +43,7 @@ Run the notebook.
 
 ## Data Protection
 
-The dataset is not published in the project due to Data Protection Laws.
+The dataset can be downloaded from https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database.
 
 
 
