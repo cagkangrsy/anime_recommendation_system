@@ -25,6 +25,8 @@ The dataset contains information on user preference data from 73,516 users on 12
 | **anime_id:** | the anime that this user has rated. |
 | **rating:** | rating out of 10 this user has assigned (-1 if the user watched it but didn't assign a rating). |
 
+I do not have any rights on the dataset. It is available for access in: https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+
 ## Run on your PC
 
 Clone the project
@@ -41,9 +43,7 @@ Go to project directory
 
 Run the notebook.
 
-## Data Protection
 
-The dataset can be downloaded from https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database.
 
 
 
